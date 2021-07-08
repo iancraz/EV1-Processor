@@ -26,7 +26,7 @@ In this work, we focused on implementing a RISC Processor that was capable of im
 # Implementation
 >[Table of contents](#table-of-contents)
 
-To implement this processor we used the Altera Cyclone IV in the DE0 Nano FPGA Evaluation Board. To program this design we used [Quartus](https://fpgasoftware.intel.com/?edition=lite) as the main compilation and debugging program, and the code was written in Verilog. A more detailed documentation of the processor can be found at [EV21 Documentation](https://github.com/iancraz/EV21-Processor/blob/main/EV21%20Documentation.pdf) (In Spanish).
+To implement this processor we used the Altera Cyclone IV in the DE0 Nano FPGA Evaluation Board. To program this design we used [Quartus](https://fpgasoftware.intel.com/?edition=lite) as the main compilation and debugging program, and the code was written in Verilog. A more detailed documentation of the processor can be found at [EV21 Documentation](https://github.com/iancraz/EV21-Processor/blob/main/EV21%20Documentation%20(English).pdf).
 
 The main structure of the Processor can be seen as follows:
 
